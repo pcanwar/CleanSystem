@@ -6,7 +6,7 @@ import shutil
 
 class Commands:
     def __init__(self):
-        self.commandsSwitch = {"quit": None, "lang": self.lang, "remove": self.remove, "hash": self.hash,
+        self.commandsSwitch = {"quit": None, "language": self.language, "remove": self.remove, "hash": self.hash,
                                "help": self.printHelp, "clean": self.clean}
 
     def doWork(self, comandName, args):
@@ -36,7 +36,8 @@ class Commands:
 
         print(f"The hash is: {hashOb.hexdigest()}")
 
-    def lang(self, args):
+    def language(self, args):
+
         dir_size = 0
         for root, dirs, files in os.walk("/Users/pcanw"):
             for dir in dirs:
@@ -72,6 +73,7 @@ class Commands:
 
     def clean(self, args):
         """
+        IN:
         To find log files
         System Log Folder: /var/log
         System Log: /var/log/system.log
@@ -80,6 +82,7 @@ class Commands:
         System Reports: /Library/Logs/DiagnosticReports
         User Application Logs: ~/Library/Logs
         User Reports: ~/Library/Logs/DiagnosticReports
+
         :param args: no needed it
         :return:
         """
