@@ -24,7 +24,7 @@ class Commands:
     help -              Print this help information
     quit -              Quit this system
     clean -             Cleaning  Files
-    lang -              Remove Language Files
+    language -              Remove Language Files
     remove {dmg} -      Remove file time 
     
     """)
