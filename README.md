@@ -2,10 +2,10 @@
 
 a cleaner app to clean and optimize sys.
 
-## Installation
-
+## Interduction 
 To free up disk space and remove private information
 
+## Installation
 
 
 ## License
