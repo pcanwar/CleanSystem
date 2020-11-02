@@ -39,7 +39,7 @@ class Commands:
     def language(self, args):
 
         dir_size = 0
-        for root, dirs, files in os.walk("/Users/pcanw"):
+        for root, dirs, files in os.walk("~"):
             for dir in dirs:
                 if '.lproj' in dir:
                     if 'en.lproj' not in dir and \
@@ -73,7 +73,7 @@ class Commands:
 
     def clean(self, args):
         """
-        IN:
+
         To find log files
         System Log Folder: /var/log
         System Log: /var/log/system.log
@@ -92,8 +92,8 @@ class Commands:
                    "~/Library/Logs",
                    "~/Library/Developer/Xcode/DerivedData",
                    "~/Library/Developer/Xcode/iOS Device Logs",
-
                    ]
+
         for dir in datadir:
             dir_list = os.listdir(dir)
             for d in dir_list:
