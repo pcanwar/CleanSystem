@@ -3,7 +3,7 @@
 a cleaner app to clean and optimize sys.
 
 ## Interduction 
-To free up disk space and remove private information
+To free up disk space and remove private information. 
 
 ## Installation
 
