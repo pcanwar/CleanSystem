@@ -3,9 +3,11 @@
 a cleaner app to clean and optimize sys.
 
 ## Interduction 
-To free up disk space and remove private information. 
+I am doing this for fun. To free up disk space and remove private information. 
 
 ## Installation
+
+
 
 
 ## License
