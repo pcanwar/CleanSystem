@@ -7,7 +7,7 @@ I am doing this for fun. (DevOps)
 
 
 
-## Futures 
+## Feature 
 
 ### To free up disk space and remove private information:
 - Log files <br />
