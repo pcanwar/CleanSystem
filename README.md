@@ -10,20 +10,20 @@ I am doing this for fun. (DevOps)
 ## Futures 
 
 # To free up disk space and remove private information:
-- Log files
-        System Log Folder: /var/log
-        System Log: /var/log/system.log
-        Mac Analytics Data: /var/log/DiagnosticMessages
-        System Application Logs: /Library/Logs
-        System Reports: /Library/Logs/DiagnosticReports
-        User Application Logs: ~/Library/Logs
-        User Reports: ~/Library/Logs/DiagnosticReports
+- Log files <br />
+        System Log Folder: /var/log <br />
+        System Log: /var/log/system.log <br />
+        Mac Analytics Data: /var/log/DiagnosticMessages <br />
+        System Application Logs: /Library/Logs <br />
+        System Reports: /Library/Logs/DiagnosticReports <br />
+        User Application Logs: ~/Library/Logs <br />
+        User Reports: ~/Library/Logs/DiagnosticReports <br />
  
-- Langauge files
-       .lproj directories have different language versions
+- Langauge files <br />
+       .lproj directories have different language versions <br />
         
-- Remove files 
-        Remove any type of files such as .dmg files
+- Remove files  <br />
+        Remove any type of files such as .dmg files <br />
 
 # Monitoring and Tracking System
 
