@@ -9,7 +9,7 @@ I am doing this for fun. (DevOps)
 
 ## Futures 
 
-# To free up disk space and remove private information:
+### To free up disk space and remove private information:
 - Log files <br />
         System Log Folder: /var/log <br />
         System Log: /var/log/system.log <br />
@@ -25,11 +25,11 @@ I am doing this for fun. (DevOps)
 - Remove files  <br />
         Remove any type of files such as .dmg files <br />
 
-# Monitoring and Tracking System
+### Monitoring and Tracking System
 
 - 
 
-#
+###
 
 
 ## Installation
