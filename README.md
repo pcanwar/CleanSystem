@@ -1,7 +1,6 @@
 
  ## Interduction 
-I am doing this for fun. (DevOps) 
-a cleaner app to clean and optimize sys.
+I am doing this for fun. (DevOps) to clean and optimize sys.
 
 I haven't tried it on Windows
 
