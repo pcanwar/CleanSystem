@@ -1,10 +1,9 @@
-# Cleaner System
 
+ ## Interduction 
+I am doing this for fun. (DevOps) 
 a cleaner app to clean and optimize sys.
 
-## Interduction 
-I am doing this for fun. (DevOps) 
-
+I haven't tried it on Windows
 
 
 ## Feature 
@@ -23,7 +22,7 @@ I am doing this for fun. (DevOps)
        .lproj directories have different language versions <br />
         
 - Remove files  <br />
-        Remove any type of files such as .dmg files <br />
+        Remove any type of files such as .dmg .exe files <br />
 
 ### Monitoring and Tracking System
 
