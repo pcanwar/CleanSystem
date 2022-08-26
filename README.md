@@ -1,6 +1,6 @@
 
  ## Interduction 
-I am doing this for fun. (DevOps) and to clean and optimize sys.
+I am doing this for fun vs CleanMyMacX
 
 I haven't tried it on Windows
 
